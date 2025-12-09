@@ -1,0 +1,20 @@
+{
+  "name": "@usestreamline/auth",
+  "version": "1.0.3",
+  "description": "Front-end authentication utilities for Streamline apps (Dashboard, Accounts, etc.)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "module": "dist/index.js",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Streamline Pty Ltd",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
