@@ -1,6 +1,6 @@
 {
   "name": "@usestreamline/auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Front-end authentication utilities for Streamline apps (Dashboard, Accounts, etc.)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
