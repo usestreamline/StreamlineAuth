@@ -1,4 +1,4 @@
-export const API_BASE_URL = "https://api.usestreamline.net/v1";
+export const API_BASE_URL = "https://api.streamline.cx/v1";
 
 export function getCookie(name: string): string | null {
     if (typeof document === "undefined") return null;
